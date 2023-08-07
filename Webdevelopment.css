@@ -1,0 +1,22 @@
+h1.aim{
+  text-align: center;
+  border: 5px Solid red;
+  border-radius: 5px;
+  margin: 20px 50px;
+}
+.click{
+  text-align: center;
+}
+.routine{
+  color: brown;
+  border: 4px solid blue;
+  border-radius: 20px;
+  margin: 20px;
+  margin-right: 50px;
+ 
+  text-align: center;
+  padding: 5px;
+}
+h2.wake{
+  color: darkgreen;
+}
