@@ -1,0 +1,89 @@
+.name{
+  color: deeppink;
+}
+.half-width{
+  width: 49%;
+  float: left;
+
+}
+.half-width img{
+ width: 100%;
+}
+section{
+  height:500px;
+}
+.first-sec{
+  background-image: url("images/header-bg.png");
+  background-position: center;
+}
+#first-div{
+  margin-top: 160px;
+}
+#bio{
+  margin-top: 160px;
+}
+.second-sec{
+  background-image: url("images/biography-bg.png");
+  background-repeat: no-repeat;
+}
+.decoration{
+  text-decoration: none;
+  background-image: linear-gradient(180deg, lightSalmon, tomato);
+  padding: 7px 14px;
+  color: white;
+  font-weight: 1000;
+}
+.third-sec{
+  background-image: url("images/latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.latest-work{
+  text-align: center;
+}
+.thirdsec-all{
+  width: 30%;
+  float: left;
+  margin-top: 75px;
+  margin-left: 24px;
+  box-shadow: 10px 10px 20px gray;
+}
+.thirdsec-all img{
+  width: 100%;
+}
+.first{
+  text-align: center;
+}
+.Abdur{
+  height: 30px;
+  width: 200px;
+  margin-left: 435px;
+  margin-top: 65px;
+}
+.rahman{
+ font-weight: 700;
+}
+#founder{
+  height: 20px;
+  width: 150px;
+  margin-left: 420px;
+  margin-top: -25px;
+}
+.beforebutton-one{
+  height: 15px;
+  width: 300px;
+  margin-left: 355px;
+  margin-top: 40px;
+  font-weight: 500;
+}
+.beforebutton-one-two{
+  height: 15px;
+  width: 300px;
+  margin-left: 350px;
+  margin-top: -15px;
+  font-weight: 500;
+}
+.last-button{
+  text-decoration: none;
+  background-color: orange;
+}
